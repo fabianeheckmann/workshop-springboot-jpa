@@ -4,39 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acf87aeb-813a-4083-90ed-d1c3dac4836b" name="Changes" comment="" />
+    <list default="true" id="5f222eb6-20f0-4994-b475-580a0395ef29" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/src/main/java/com/projectspring/course/CourseApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/src/test/java/com/projectspring/course/CourseApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
-}</component>
-  <component name="ProjectId" id="2gZrYZuk2dV3GyRCmbJn7f8maOe" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2gZuYq7BEBt2562wmxC0vGy2nBP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.CourseApplication.executor": "Run",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/repositories/java-projects/course/course",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
+    "last_opened_file_path": "C:/repositories/java-projects/workshop-springboot-jpa",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -60,13 +70,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="acf87aeb-813a-4083-90ed-d1c3dac4836b" name="Changes" comment="" />
-      <created>1715915988668</created>
+      <changelist id="5f222eb6-20f0-4994-b475-580a0395ef29" name="Changes" comment="" />
+      <created>1715917472629</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1715915988668</updated>
-      <workItem from="1715915989711" duration="675000" />
-      <workItem from="1715916700324" duration="55000" />
+      <updated>1715917472629</updated>
+      <workItem from="1715917473175" duration="34000" />
     </task>
     <servers />
   </component>
